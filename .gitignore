@@ -1,3 +1,4 @@
 pythia-70m-deduped
 .DS_Store
 .venv_streaming
+.vscode
